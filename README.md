@@ -33,14 +33,13 @@ The circuit works on the rule of **light-controlled resistance**. When light shi
 *### Project Images
 
 #### 1. Hardware Schematic Circuit Diagram
-![Schematics](circuit 2.jpeg)
+![Schematics](circuit%202.jpeg)
 
 #### 2. Tinkercad Virtual Simulation Test
-![SimulatImagescuit](simulation
-.jpeg)
+![SimulatImagescuit](simulation.jpeg)
 
 #### 3. Breadboard Physical Component Wiring
-![Physical circuit board](circuit 1.jpeg)
+![Physical circuit board](circuit%201.jpeg)
 
 #### 4. Completed Custom Model House Setup
-![Finished project](circuit 3.jpeg)
+![Finished project](circuit%203.jpeg)
