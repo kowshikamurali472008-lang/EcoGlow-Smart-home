@@ -42,4 +42,4 @@ The circuit works on the rule of **light-controlled resistance**. When light shi
 ![Physical circuit board](circuit%201.jpg)
 
 #### 4. Completed Custom Model House Setup
-![Finished project](circuit%203.jpe)
+![Finished project](circuit%203.jpg)
